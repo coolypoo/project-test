@@ -1,0 +1,9 @@
+touch 000 :파일생성
+mkdir cli: make directory
+ls 목록(안에 있는거 체크)
+명렁어 수행 위치
+깃 명령어를 통한 버전관리 방법
+git init git 저장소로 사용됨
+소스코드 관련 모든 정보들이 .git 에 저장
+git init
+git status
